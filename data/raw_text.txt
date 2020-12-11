@@ -1,0 +1,166 @@
+
+Health Authorities
+
+1 Interior (PDF, 1.4MB)
+2 Fraser (PDF, 2.0MB)
+3 Vancouver Coastal (PDF, 2.3MB)
+4 Vancouver Island (PDF, 1.8MB)
+5 Northern (PDF, 1.3MB)
+
+Health Service Delivery Areas
+
+11 East Kootenay (PDF, 1.2MB)
+12 Kootenay Boundary (PDF, 1.8MB)
+13 Okanagan (PDF, 1.7MB)
+14 Thompson Cariboo Shuswap (PDF, 1.7MB)
+21 Fraser East (PDF, 2.0MB)
+22 Fraser North (PDF, 1.8MB)
+23 Fraser South (PDF, 1.4MB)
+31 Richmond (PDF, 1.2MB)
+32 Vancouver (PDF, 1.3MB)
+33 North Shore – Coast Garibaldi (PDF, 1.8MB)
+41 South Vancouver Island (PDF, 1.5MB)
+42 Central Vancouver Island (PDF, 1.8MB)
+43 North Vancouver Island (PDF, 1.7MB)
+51 Northwest (PDF, 1.4MB)
+52 Northern Interior (PDF, 1.4MB)
+53 Northeast (PDF, 1.1MB)
+
+Local Health Areas
+
+11 East Kootenay
+
+111 Fernie (PDF, 1.8MB)
+112 Cranbrook (PDF, 2.4MB)
+113 Kimberley (PDF, 2.4MB)
+114 Windermere (PDF, 2.2MB)
+115 Creston (PDF, 2.0MB)
+116 Golden (PDF, 1.9MB)
+
+12 Kootenay Boundary
+
+121 Kootenay Lake (PDF, 2.8MB)
+122 Nelson (PDF, 2.4MB)
+123 Castlegar (PDF, 2.4MB)
+124 Arrow Lakes (PDF, 2.6MB)
+125 Trail (PDF, 1.8MB)
+126 Grand Forks (PDF, 2.1MB)
+127 Kettle Valley (PDF, 2.1MB)
+
+13 Okanagan
+
+131 Southern Okanagan (PDF, 1.7MB)
+132 Penticton (PDF, 2.0MB)
+133 Keremeos (PDF, 2.0MB)
+134 Princeton (PDF, 2.3MB)
+135 Armstrong-Spallumcheen (PDF, 1.5MB)
+136 Vernon (PDF, 2.5MB)
+137 Central Okanagan (PDF, 2.1MB)
+138 Summerland (PDF, 1,9MB)
+139 Enderby (PDF, 2.1MB)
+
+14 Thompson Cariboo Shuswap
+
+141 Revelstoke (PDF, 2.4MB)
+142 Salmon Arm (PDF, 2.3MB)
+143 Kamloops (PDF, 2.2MB)
+144 100 Mile House (PDF, 2.1MB)
+145 North Thompson (PDF, 2.7MB)
+146 Cariboo-Chilcotin (PDF, 2.1MB)
+147 Lillooet (PDF, 2.5MB)
+148 South Cariboo (PDF, 2.2MB)
+149 Merritt (PDF, 2.4MB)
+
+21 Fraser East
+
+211 Hope (PDF, 2.8MB)
+212 Chilliwack (PDF, 2.1MB)
+213 Abbotsford (PDF, 1.7MB)
+214 Mission (PDF, 2.5MB)
+215 Agassiz-Harrison (PDF, 2.8MB)
+
+22 Fraser North
+
+221 New Westminster (PDF, 1.8MB)
+222 Burnaby (PDF, 2.0MB)
+223 Maple Ridge-Pitt Meadows (PDF, 2.6MB)
+224 Tri-Cities (PDF, 2.2MB)
+
+23 Fraser South
+
+231 Langley (PDF, 2.1MB)
+232 Delta (PDF, 1.6MB)
+233 Surrey (PDF, 2.3MB)
+234 South Surrey-White Rock (PDF, 1.7MB)
+
+31 Richmond
+
+311 Richmond (PDF, 1.8MB)
+
+32 Vancouver
+
+321 Vancouver- City Centre (PDF, 1.4MB)
+322 Vancouver-Centre North (PDF, 1.5MB)
+323 Vancouver-Northeast (PDF, 1.9MB)
+324 Vancouver-Westside (PDF, 1.4MB)
+325 Vancouver-Midtown (PDF, 1.9MB)
+326 Vancouver-South (PDF, 2.0MB)
+
+33 North Shore-Coast Garibaldi
+
+331 North Vancouver (PDF, 2.8MB)
+332 West Vancouver-Bowen Island (PDF, 1.5MB)
+333 Sunshine Coast (PDF, 2.3MB)
+334 Powell River (PDF, 2.5MB)
+335 Howe Sound (PDF, 2.7MB)
+336 Bella Coola Valley (PDF, 2.3MB)
+337 Central Coast (PDF, 2.2MB)
+
+41 South Vancouver Island
+
+411 Greater Victoria (PDF, 1.6MB)
+412 Western Communities (PDF, 1.7MB)
+413 Sannich Peninsula (PDF, 1.5MB)
+414 Southern Gulf Islands (PDF, 1.3MB)
+
+42 Central Vancouver Island
+
+421 Cowichan Valley South (PDF, 1.6MB)
+422 Cowichan Valley West (PDF, 1.9MB)
+423 Cowichan Valley North (PDF, 1.5MB)
+424 Greater Nanaimo (PDF, 1.6MB)
+425 Oceanside (PDF, 1.5MB)
+470 Alberni-Clayoquot (PDF, 2.0MB)
+
+43 North Vancouver Island
+
+431 Comox Valley (PDF, 1.7MB)
+432 Greater Campbell River (PDF, 2.6MB)
+433 Vancouver Island West (PDF, 1.9MB)
+434 Vancouver Island North (PDF, 2.5MB)
+
+51 Northwest
+
+510 Haida Gwaii (PDF)
+511 Snow Country (PDF, 2.3MB)
+512 Prince Rupert (PDF, 2.3MB)
+513 Upper Skeena (PDF, 2.3MB)
+514 Smithers (PDF, 2.5MB)
+515 Kitimat (PDF, 2.6MB)
+516 Stikine (PDF, 1.4MB)
+517 Terrace (PDF, 2.4MB)
+518 Nisga’a (PDF, 2.5MB)
+519 Telegraph Creek (PDF, 2.1MB)
+
+52 Northern Interior
+
+521 Quesnel (PDF, 2.0MB)
+522 Burns Lake (PDF, 2.3MB)
+523 Nechako (PDF, 2.1MB)
+524 Prince George (PDF, 1.9MB)
+
+53 Northeast
+
+531 Peace River South (PDF, 2.0MB)
+532 Peace River North (PDF, 1.7MB)
+533 Fort Nelson (PDF, 1.2MB)
